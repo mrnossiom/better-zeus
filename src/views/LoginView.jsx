@@ -108,7 +108,7 @@ const LoginView = () => {
               <path d="M0 12H11V23H0V12Z" fill="#00A4EF" />
               <path d="M12 12H23V23H12V12Z" fill="#FFB900" />
             </svg>
-            Sign in with Office 365
+            Sign in with Microsoft
           </button>
 
           <div className="login-footer">
